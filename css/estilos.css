@@ -8,3 +8,9 @@ h1{
 p{
     color: aquamarine;
 }
+#cabecera{
+    text-shadow: 0cap;
+    size: 16px;
+    color: aquamarine;
+    text-shadow: 1;
+}
