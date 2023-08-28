@@ -2,3 +2,9 @@ body{
     text-align: center;
     font-family: "Arial";
 }
+h1{
+    color: black;
+}
+p{
+    color: aquamarine;
+}
