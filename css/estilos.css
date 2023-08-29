@@ -11,6 +11,8 @@ p{
 #cabecera{
     text-shadow: 0cap;
     size: 16px;
-    color: aquamarine;
+    color: rgb(234, 22, 22);
     text-shadow: 1;
+    text-decoration: line-through;
+    
 }
