@@ -1,10 +1,18 @@
 body{
     text-align: center;
-    font-family: "Arial";
+    font-family: "urier";
 }
 h1{
     color: black;
 }
 p{
     color: aquamarine;
+}
+#cabecera{
+    text-shadow: 0cap;
+    size: 16px;
+    color: rgb(234, 22, 22);
+    text-shadow: 1;
+    text-decoration: line-through;
+    
 }
